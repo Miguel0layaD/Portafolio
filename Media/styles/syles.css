@@ -1,3 +1,39 @@
 .lobo1{
     width: 140px;
 }
+
+.custom_container_header{
+    background: #1E1E1E;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+.container_name{
+    display: flex;
+    justify-content: center;
+}
+
+.name_portafolio{
+    font-size: 4em;
+    color: #F23E02;
+    text-align: center;
+    font-weight: 700;
+}
+
+.container_formation{
+    color: antiquewhite;
+    text-align: center;
+    font-weight: 300;
+    font-size: 1em;
+}
+
+.custom_container_img_header{
+   height: max-content;
+}
+
+.custom_col-img{
+display: flex;
+justify-content: center;
+align-items: center;
+}
